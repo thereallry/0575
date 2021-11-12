@@ -3,7 +3,7 @@
 # @Author   : Xiachen
 
 def test():
-    print(123)
+    print(33b0a96f18c4612fc078712b6d09052b)
 
 
 #33b0a96f18c4612fc078712b6d09052b
