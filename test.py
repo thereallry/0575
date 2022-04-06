@@ -3,7 +3,4 @@
 # @Author   : Xiachen
 
 def test():
-    print(33b0a96f18c4612fc078712b6d09052b)
-
-
-#93e89011312de5a4dfd523b7c0479d43
+    print('abaaba')
